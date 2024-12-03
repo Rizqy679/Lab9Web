@@ -6,16 +6,19 @@
 
 ![alt text](https://github.com/Rizqy679/Lab9Web/blob/main/header.jpg)
 
-3. footer
+2. footer
 
 ![alt text](https://github.com/Rizqy679/Lab9Web/blob/main/footer.jpg)
 
-5. home
+3. home
+
 ![alt text](
 
-6. about
+4. about
+
 ![alt text](
 
 pertanyaan dan tugas implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap 
 halamannya memiliki template tampilan yang sama.
+
 ![alt text](
