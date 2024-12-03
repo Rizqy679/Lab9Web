@@ -16,7 +16,7 @@
 
 4. about
 
-![alt text](
+![alt text](https://github.com/Rizqy679/Lab9Web/blob/main/about.jpg)
 
 pertanyaan dan tugas implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap 
 halamannya memiliki template tampilan yang sama.
