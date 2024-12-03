@@ -12,7 +12,7 @@
 
 3. home
 
-![alt text](
+![alt text](https://github.com/Rizqy679/Lab9Web/blob/main/home.jpg)
 
 4. about
 
